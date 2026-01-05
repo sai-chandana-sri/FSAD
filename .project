@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>HibernateCRUD</name>
+=======
+	<name>MavenApp</name>
+>>>>>>> 02bc96760acd4d523b7f0ac3fae53e1ab39b6ac2
 	<comment></comment>
 	<projects>
 	</projects>
